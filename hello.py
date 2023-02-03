@@ -1,2 +1,2 @@
 print('hello')
-print('love you')
+print('me nahi karraha print')
